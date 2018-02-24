@@ -1,0 +1,83 @@
+body { 
+	background-image: url("../images/World.jpg");
+	width: 60%;
+	padding: 20%;
+}
+
+h1,
+h3,
+span, {
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	color: whitesmoke;
+	text-shadow: black;
+}
+
+ol {
+	list-style: decimal inside;
+}
+
+
+.header {
+	color: whitesmoke;
+	text-shadow: 1px 2px 2px black;
+}
+.instructions {
+	width: 50%;
+	color:  whitesmoke;
+	text-shadow: 1px 2px 2px black;
+	
+}
+
+.numbersToMatch {
+	float: left;
+	width: 15%;
+	height: 60px;
+	color:  whitesmoke;
+	text-shadow: 1px 2px 2px black;
+	
+}
+
+#randomNumber {
+	color: whitesmoke;
+	text-shadow: 1px 2px 2px black;
+}
+#numberWins {
+	float: none;
+	width: 15%;
+	height: 60px;
+	color:  whitesmoke;
+}
+
+#numberLosses {
+	float: none;
+	width: 15%;
+	height: 60px;
+	color:  whitesmoke;
+
+}
+userTotal {
+	width: 15%;
+	margin: 10px;
+	color: whitesmoke;
+}
+
+
+
+#one,
+#two,
+#three,
+#four {
+	height: 60px;
+	margin: 10px;
+	clear: both;
+}
+
